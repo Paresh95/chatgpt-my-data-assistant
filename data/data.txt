@@ -1,0 +1,4 @@
+Paresh's age is 27.
+John's age is 18.
+John has two dogs called Rocky and Nayla.
+Paresh has 3 favourite sports: basketball, tennis and table tennis.
